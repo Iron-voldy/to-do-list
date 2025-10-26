@@ -19,7 +19,7 @@ You only need **Docker** and **Docker Compose** installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPO_LINK]
+    git clone [https://github.com/Iron-voldy/to-do-list.git]
     cd [YOUR_REPO_NAME]
     ```
 
