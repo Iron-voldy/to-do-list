@@ -1,0 +1,10 @@
+vendor/
+tests/
+coverage/
+.git/
+.gitignore
+.env
+*.md
+phpunit.xml
+composer.lock
+.phpunit.cache
